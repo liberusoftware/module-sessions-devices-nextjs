@@ -1,0 +1,25 @@
+{
+  "repository": "module-sessions-devices-nextjs",
+  "capabilityKey": "liberusoftware/sessions-devices",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-sessions-devices-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/boilerplate/nextjs/sessions-devices.md",
+  "presentationPlan": "projects/boilerplate/nextjs/sessions-devices.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
